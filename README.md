@@ -18,7 +18,7 @@ SeachalHere are some ideas to get you started:
 
 | 公众号   | 掘金     |  知乎    |  CSDN   |   简书   |   思否  |   哔哩哔哩  |   今日头条    
 |---------|---------|--------- |---------|---------|---------|---------|---------|
-| [Seachal的小站](https://ss.im5i.com/)  |  [点我](https://juejin.im/user/2066737589651528/posts)    |   [点我](https://www.zhihu.com/people/xiong-mao-he-shui-27/posts)       |   [点我](https://Zhangxichao100.blog.csdn.net/)  |   [点我](https://www.jianshu.com/u/a2d105dc9ca9)  |   [点我](https://segmentfault.com/u/seachal)  |   [点我](https://space.bilibili.com/)  |   [点我](https://img.rruu.net/image/)  
+| [Seachal的小站](https://ss.im5i.com/)  |  [点我](https://juejin.im/user/2066737589651528/posts)    |   [点我](https://www.zhihu.com/people/xiong-mao-he-shui-27/posts)       |   [点我](https://blog.csdn.net/Zhangxichao100?spm=1038.2274.3001.5343)  |   [点我](https://www.jianshu.com/u/a2d105dc9ca9)  |   [点我](https://segmentfault.com/u/seachal)  |   [点我](https://space.bilibili.com/)  |   [点我](https://img.rruu.net/image/)  
 
 
 
