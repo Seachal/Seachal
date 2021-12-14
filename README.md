@@ -18,3 +18,15 @@ Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 我的微信：xiongmaochirou1
 
 ![Seachal's github stats](https://github-readme-stats.vercel.app/api?username=Seachal&show_icons=true&theme=radical) 
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seachal&repo=Seachal_Android_Demos)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seachal&repo=BubbleItemPopupWindow)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seachal&repo=ScaleType-Demo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
