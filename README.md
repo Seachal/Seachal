@@ -14,7 +14,7 @@ SeachalHere are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋, I'm <a href="https://blog.csdn.net/Zhangxichao100?ref=toolbar">Seachal</a> ， 我是 「 Seachal」 👋 
+Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://blog.csdn.net/Zhangxichao100?ref=toolbar">Seachal</a> ， 我是 「 Seachal」<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 我的微信：xiongmaochirou1
 
 ![Seachal's github stats](https://github-readme-stats.vercel.app/api?username=Seachal&show_icons=true&theme=radical) 
