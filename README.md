@@ -14,8 +14,14 @@ SeachalHere are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://blog.csdn.net/Zhangxichao100?ref=toolbar">Seachal</a> ， 我是 「 Seachal」<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-我的微信：xiongmaochirou1
+你好 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 
+
+| 公众号   | 掘金     |  知乎    |  CSDN   |   简书   |   思否  |   哔哩哔哩  |   今日头条    
+|---------|---------|--------- |---------|---------|---------|---------|---------|
+| [Seachal的小站](https://ss.im5i.com/)  |  [点我](https://juejin.im/user/2066737589651528/posts)    |   [点我](https://www.zhihu.com/people/xiong-mao-he-shui-27/posts)       |   [点我](https://Zhangxichao100.blog.csdn.net/)  |   [点我](https://www.jianshu.com/u/a2d105dc9ca9)  |   [点我](https://segmentfault.com/u/seachal)  |   [点我](https://space.bilibili.com/)  |   [点我](https://img.rruu.net/image/)  
+
+
+
 
 ![Seachal's github stats](https://github-readme-stats.vercel.app/api?username=Seachal&show_icons=true&theme=radical) 
 
