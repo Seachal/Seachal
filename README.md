@@ -26,6 +26,8 @@ SeachalHere are some ideas to get you started:
 ![Seachal's github stats](https://github-readme-stats.vercel.app/api?username=Seachal&show_icons=true&theme=radical) 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seachal&repo=Seachal_Android_Demos)](https://github.com/Seachal/Seachal_Android_Demos)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Seachal&repo=Seachal_Android_Demos)](https://github.com/Seachal/Seachal_Android_Demos)
 
