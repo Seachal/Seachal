@@ -18,7 +18,7 @@ SeachalHere are some ideas to get you started:
 
 | 公众号   | 掘金     |  知乎    |  CSDN   |   简书   |   思否  |   哔哩哔哩  |   微信    
 |---------|---------|--------- |---------|---------|---------|---------|---------|
-| [Seachal]([http://seachal-blog-picture-host.oss-cn-beijing.aliyuncs.com/blog-other/Seachal%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg](https://weixin.sogou.com/weixin?type=1&s_from=input&query=Seachal&ie=utf8&_sug_=n&_sug_type_=))  |  [点我](https://juejin.im/user/2066737589651528/posts)    |   [点我](https://www.zhihu.com/people/xiong-mao-he-shui-27/posts)       |   [点我](https://blog.csdn.net/Zhangxichao100?spm=1038.2274.3001.5343)  |   [点我](https://www.jianshu.com/u/a2d105dc9ca9)  |   [点我](https://segmentfault.com/u/seachal)  |   [点我](https://space.bilibili.com/)  |   SeachalZhang  
+| [Seachal](https://weixin.sogou.com/weixin?type=1&s_from=input&query=Seachal&ie=utf8&_sug_=n&_sug_type_=)  |  [点我](https://juejin.im/user/2066737589651528/posts)    |   [点我](https://www.zhihu.com/people/xiong-mao-he-shui-27/posts)       |   [点我](https://blog.csdn.net/Zhangxichao100?spm=1038.2274.3001.5343)  |   [点我](https://www.jianshu.com/u/a2d105dc9ca9)  |   [点我](https://segmentfault.com/u/seachal)  |   [点我](https://space.bilibili.com/)  |   SeachalZhang  
 
 
 
